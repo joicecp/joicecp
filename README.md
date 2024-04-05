@@ -3,7 +3,7 @@
 <!--Div de info sobre qual stack trabalho -->
 
 <div>
-  - 👔 Atualmente trabalho com Java no back-and e Angular no front-end  
+  - 👔 Atualmente trabalho com Java no back-and e Angular JS no front-end  
 </div>
 
 ##
